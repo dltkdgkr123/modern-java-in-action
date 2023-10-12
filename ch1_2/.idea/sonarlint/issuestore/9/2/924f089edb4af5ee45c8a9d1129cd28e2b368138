@@ -1,0 +1,15 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Green" 6 times.(Ç·çúÿÿÿÿ8‰ÏñÄ±1
+7
+java:S1220""Move this file to a named package.8ŠÏñÄ±1
+e	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÅÍ¨ü8÷ÏñÄ±1
+L	java:S106^"+Replace this use of System.out by a logger.(é›î™úÿÿÿÿ8‰ĞñÄ±1
+L	java:S106c"+Replace this use of System.out by a logger.(·ˆÿ¥üÿÿÿÿ8‰ĞñÄ±1
+G	java:S106h"+Replace this use of System.out by a logger.(¹ËÃ8ŠĞñÄ±1
+G	java:S106k"+Replace this use of System.out by a logger.(ÙœæÅ8ŒĞñÄ±1
+G	java:S106n"+Replace this use of System.out by a logger.(àİÎ¡8ĞñÄ±1
+G	java:S106q"+Replace this use of System.out by a logger.(úÏæ8ĞñÄ±1
+L	java:S106r"+Replace this use of System.out by a logger.(É±„Ÿúÿÿÿÿ8ĞñÄ±1
+G	java:S106s"+Replace this use of System.out by a logger.(üêª‡8“ĞñÄ±1
+F	java:S106|"+Replace this use of System.out by a logger.(†½ù18–ĞñÄ±1

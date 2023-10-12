@@ -1,0 +1,67 @@
+
+Q
+java:S3740="/Provide the parametrized type for this generic.(ìúéÇıÿÿÿÿ8û“¿™²1
+L
+java:S3740f"/Provide the parametrized type for this generic.(¢Àºú8ü“¿™²1
+R
+java:S3740„"/Provide the parametrized type for this generic.(¶ù°ßùÿÿÿÿ8ü“¿™²1
+M
+java:S3740‡"/Provide the parametrized type for this generic.(í›˜ß8ü“¿™²1
+R
+java:S3740Š"/Provide the parametrized type for this generic.(º‰úÁøÿÿÿÿ8ü“¿™²1
+M
+java:S3740"/Provide the parametrized type for this generic.(Î¨èœ8ü“¿™²1
+½
+java:S6539"ŸSplit this â€œMonster Classâ€ into smaller and more specialized ones to reduce its dependencies on other classes from 22 to the maximum authorized 20 or less.(àªÅö8ü“¿™²1
+7
+java:S1220""Move this file to a named package.8ş“¿™²1
+T
+java:S39585"2Refactor the code so this stream pipeline is used.(Ç¸å şÿÿÿÿ8’”¿™²1
+]
+java:S18549"@Remove this useless assignment to local variable "appleStream2".(÷®¯¯8•”¿™²1
+\
+java:S18548"?Remove this useless assignment to local variable "appleStream".(ÉïÚô8•”¿™²1
+^
+java:S18542"<Remove this useless assignment to local variable "byWeight".(¿Òİ¶ÿÿÿÿÿ8•”¿™²1
+F	java:S106+"+Replace this use of System.out by a logger.(ñœÊO8–”¿™²1
+O
+java:S14812"-Remove this unused "byWeight" local variable.(¿Òİ¶ÿÿÿÿÿ8—”¿™²1
+M
+java:S14818"0Remove this unused "appleStream" local variable.(ÉïÚô8˜”¿™²1
+N
+java:S14819"1Remove this unused "appleStream2" local variable.(÷®¯¯8™”¿™²1
+G	java:S106F"+Replace this use of System.out by a logger.(Ğéô÷8™”¿™²1
+G	java:S106G"+Replace this use of System.out by a logger.(êŠÂ¼8š”¿™²1
+L	java:S106H"+Replace this use of System.out by a logger.(áÇ—¨ûÿÿÿÿ8š”¿™²1
+L	java:S106K"+Replace this use of System.out by a logger.(›Áïÿøÿÿÿÿ8š”¿™²1
+G	java:S106L"+Replace this use of System.out by a logger.(¨Óµ‚8›”¿™²1
+L	java:S106Z"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8œ”¿™²1
+G	java:S106^"+Replace this use of System.out by a logger.(àÓ¨¨8œ”¿™²1
+]
+java:S1612i"@Replace this lambda with method reference 'System.out::println'.(úıŸƒ8”¿™²1
+G	java:S106i"+Replace this use of System.out by a logger.(úıŸƒ8”¿™²1
+L	java:S106o"+Replace this use of System.out by a logger.(àË‡«ùÿÿÿÿ8”¿™²1
+A
+java:S2153~"Remove the boxing to "Integer".(ƒÁ‰ÿÿÿÿÿ8”¿™²1
+C
+java:S2129~"!Remove this "Integer" constructor(ƒÁ‰ÿÿÿÿÿ8Ÿ”¿™²1
+Q
+java:S1874~"/Remove this use of "Integer"; it is deprecated.(ƒÁ‰ÿÿÿÿÿ8Ÿ”¿™²1
+[
+java:S1481"8Remove this unused "intToDoubleFunction" local variable.(°È¹†ûÿÿÿÿ8Ÿ”¿™²1
+X
+java:S1481„"5Remove this unused "toDoubleFunction" local variable.(¶ù°ßùÿÿÿÿ8Ÿ”¿™²1
+N
+java:S1481‡"0Remove this unused "biPredicate" local variable.(í›˜ß8Ÿ”¿™²1
+V
+java:S1481Š"3Remove this unused "objIntConsumer" local variable.(º‰úÁøÿÿÿÿ8Ÿ”¿™²1
+R
+java:S1481"4Remove this unused "toIntBiFunction" local variable.(Î¨èœ8Ÿ”¿™²1
+V
+java:S1481"3Remove this unused "binaryOperator" local variable.(­Ë­‰üÿÿÿÿ8 ”¿™²1
+^	java:S125›"<This block of commented-out lines of code should be removed.(ıÈ­ïúÿÿÿÿ8 ”¿™²1
+v
+java:S1602§"SRemove useless curly braces around statement and then remove useless return keyword(š‡»Áûÿÿÿÿ8 ”¿™²1
+Y	java:S125¨"<This block of commented-out lines of code should be removed.(³»È¸8¡”¿™²1
+c
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(ûÛşº8¢”¿™²1
