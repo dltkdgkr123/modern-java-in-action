@@ -3,6 +3,17 @@
 // @FunctionalInterface 애노테이션으로 검증 가능하다 - 2개 이상의 메서드 포함시 컴파일러가 에러를 발생시킴
 // Runnable, Predicate, Comparable, ActionListener, Callable, PrivilegedAction
 // 많은 default/static/private 메서드가 존재하더라도 추상 메서드가 하나라면 함수형 인터페이스다!
+
+/*
+* 공부하다가 같은 용어가 다르게 쓰이는 듯 해서 정리한 내용 (올바른 내용이라는 확답은 못들었으나 맞는 것 같다.)
+*
+* 메소드의 시그니처
+* 메소드명과 인자의 조합 (반환형 미포함)
+*
+* 함수형 인터페이스의 시그니처
+* 인자와 반환형의 조합 == 함수 디스크립터(메소드명 미포함)
+*
+* */
 @java.lang.FunctionalInterface
 public interface FunctionalInterface<T> {
 
